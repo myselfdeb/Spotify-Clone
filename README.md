@@ -30,4 +30,17 @@ A feature-rich clone of the Spotify web player built using **HTML**, **CSS**, an
 
 ## Screenshots
 ### Desktop View
-![Screenshot-1](Screenshots/Screenshot1.png)
+![Screenshot-1](Screenshot/Screenshot1.png)
+
+## Future Enhancements
+- Integrate a backend for dynamic content loading.
+
+## Contributing
+- Feel free to fork this repository and share improvements or ideas. Contributions are always welcome!
+
+### **GitHub Repository Description**
+**"Spotify Clone**: A dynamic clone of the Spotify web player built using HTML, CSS, and JavaScript. Features include a responsive design and interactive elements showcasing frontend development skills. Explore the project [here](https://github.com/myselfdeb/Spotify-Clone/tree/main)."  
+
+Let me know if you’d like further customization! 😊
+
+
